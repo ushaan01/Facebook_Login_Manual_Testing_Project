@@ -91,7 +91,7 @@ Key issues identified include “Show Password” not working, “Remember Me”
 
 | Experience Level       |  Fresher                                |
 
-| Project Type           | Practice Project – Functional Testing   |
+| Project Type           | Practice Project  |
 
 | Date Prepared          | 11 November 2025                        |
 
